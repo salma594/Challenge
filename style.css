@@ -1,0 +1,52 @@
+.btn{ background-color: #FF6B81;
+    border-radius: 4px  #fff;
+}
+
+
+.navbar-brand{
+    padding-right: 15%;
+}
+nav a{
+    padding: 10px;
+    margin: 5px;
+}
+
+.pink{
+    background-color: #FF6B81;
+}
+.btn1{
+    border-radius: 10px;
+    padding: 10px #fff;
+    margin: 10px;
+    padding: 13px;
+}
+.btn2{
+    border-radius: 10px;
+    border-color: #fff;
+    background-color: #FF6B81;
+    margin: 10px;
+    padding: 13px;
+}
+
+.fts{
+    color: #FF6B81;
+}
+
+i{
+    color: #FF6B81;
+}
+.iconcolor{
+    color: #FF6B81;
+    background-color: #FF6B81;
+    
+}
+.pcg{
+    color: #FF6B81;
+}
+.btn3{
+    border-radius: 4px;
+    background-color: black;
+    display: block;
+    text-decoration: none;
+}
+
